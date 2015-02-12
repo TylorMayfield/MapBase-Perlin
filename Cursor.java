@@ -1,9 +1,5 @@
 package mapbase;
 /** A class to create cursors which accept standard input to control movement and have basic edge handling.
- *
- * @author Nathan Soodak
- * @author Matthew Therrian
- * @version 01-18-11 8:05pm
  */
 public class Cursor
 {
